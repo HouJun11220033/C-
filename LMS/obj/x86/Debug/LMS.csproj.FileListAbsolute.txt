@@ -1,0 +1,7 @@
+F:\C# Project\LMS\LMS\obj\x86\Debug\LMS.Form1.resources
+F:\C# Project\LMS\LMS\obj\x86\Debug\LMS.Properties.Resources.resources
+F:\C# Project\LMS\LMS\obj\x86\Debug\LMS.csproj.GenerateResource.Cache
+F:\C# Project\LMS\LMS\bin\Debug\LMS.exe
+F:\C# Project\LMS\LMS\bin\Debug\LMS.pdb
+F:\C# Project\LMS\LMS\obj\x86\Debug\LMS.exe
+F:\C# Project\LMS\LMS\obj\x86\Debug\LMS.pdb
